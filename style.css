@@ -29,4 +29,42 @@ body {
     color:black;
     margin: center; 
 }
-  
+
+ .paragrafo-1 {
+    margin-left: 20px;
+    justify-content: center;
+ }
+
+  .titulo-3 {
+    color:#black;
+    justify-content: center;
+    padding: 40px
+  }
+
+  .paragrafo-2 {
+    margin-left:  20px
+    justify-content:
+  }
+
+.arduino  {
+    : height: 40%;;
+}
+
+
+.protoboard {
+    width:40%;
+    margin-right: 50%;
+}
+
+.multimetro {
+    width: 40%;
+    margin-right: 30px;
+}
+
+.capacitor {
+    width: 40%;
+    padding: 45px;
+    margin-right: 50px;
+}
+
+.sensor-LDR
