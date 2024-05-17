@@ -41,14 +41,14 @@ body {
 }
 
  .paragrafo-1 {
-    margin-left: 20px;
+    margin-left: center;
     justify-content: center;
+    text-align: ;center;
  }
 
   .titulo-3 {
     color:#black;
     justify-content: center;
-    padding: 40px
   }
 
   .paragrafo-2 {
@@ -58,12 +58,14 @@ body {
 
 .arduino  {
     : height: 40%;;
+    display:inline
+    padding:40px
 }
 
 
 .protoboard {
     width:40%;
-    margin-right: 50%;
+    display:inline;120px
 }
 
 .multimetro {
@@ -73,8 +75,24 @@ body {
 
 .capacitor {
     width: 40%;
-    padding: 45px;
-    margin-right: 50px;
+    :15%
+    display:inline ;
+    padding: 30;
+    margin-left: 60px;
+    margin-right: 40px;
 }
 
-.sensor-LDR
+.sensor-LDR {
+    width: 20%;
+    display:20px ;
+    margin-left:
+
+}
+
+.led {
+   width: 20%;
+   display:inline;
+   margin-left: 140px;
+   padding:20px;
+
+}
